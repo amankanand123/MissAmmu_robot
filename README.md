@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>❤️ Alexa Management Bot ❤️</b></h1>
+<h1 align="center"><b>❤️ Miss Ammu(Alexa) Management Bot ❤️</b></h1>
 
 <h4 align="center">Rocks Alexa A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -7,7 +7,7 @@
   <a href="https://github.com/jankarikiduniya/Rocks-Alexa-Official-Management/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/44870675794b9089a4fa8.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/Dr_Asad_Ali"><img src="https://telegra.ph/file/b23ff0f4960f83948b863.jpg" width="400"></a></p>
 
 <p align="center">
     <a href="https://app.codacy.com/manual/jankarikiduniya/AlexaManagement3.0/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
